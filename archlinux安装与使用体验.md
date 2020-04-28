@@ -30,7 +30,7 @@ manjaro 基于archlinux。archlinux的特点是优雅、极简和注重代码正
 
 由Hubery-Lee编写，喜欢:heart:请收藏给一个赞吧:thumbsup:捐赠
 
-<img src="C:\Users\lee\OneDrive\Markdown_WorkSpace\软件测试笔记\images\捐赠.jpg" style="zoom:25%;" />
+![](./images/捐赠.jpg)
 
 ## Copyright :copyright:2019 [Hubery-Lee](https://github.com/Hubery-Lee):sparkling_heart: 
 
