@@ -22,4 +22,4 @@
 
 喜欢的同志请收藏赏个赞吧，以支撑作者持续更新发布更优质的资源。
 
-![](./images/wechat_pay.jpg){:width="100px", height="100px"}
+![](./images/wechat_pay.jpg)
